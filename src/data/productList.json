@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Palet Breton",
+        "category": "Confiserie",
+        "description": "Délicieux",
+        "price": 2.99,
+        "vta": 20
+    },
+    {
+        "id": 2,
+        "name": "Rhum",
+        "category": "Boisson",
+        "price": 10,
+        "vta": 20
+    }
+]
